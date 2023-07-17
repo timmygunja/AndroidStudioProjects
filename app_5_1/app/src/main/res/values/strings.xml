@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">app_5_1</string>
+    <string name="start">Start service</string>
+    <string name="bind">Bind</string>
+</resources>
